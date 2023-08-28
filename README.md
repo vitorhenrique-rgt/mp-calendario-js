@@ -27,7 +27,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar s
 ### Screenshot
 ![screenshot-rocks (19)](https://github.com/codante-io/mp-calendario-js/assets/6475893/91574622-f195-4eed-927f-2bc2d1246e61)
 
-### Figma - [link do design](https://www.figma.com/community/file/1273711237095306477)
+### Figma - [link do design](https://www.figma.com/community/file/1278015735399148625)
 
 ## 👉🏽 Sobre esse mini-projeto
 
