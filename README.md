@@ -1,4 +1,4 @@
-Utilize apenas JavaScript puro, sem a ajuda de qualquer framework ou biblioteca, e construa um calendário dinâmico e interativo! O objetivo desse mini projeto é tanto explorar a profundidade da linguagem JavaScript pura, quanto compreender a lógica por trás da criação e manipulação de um calendário.
+Utilize apenas JavaScript (ou TypeScript) puro, sem a ajuda de qualquer framework ou biblioteca, e construa um calendário dinâmico e interativo! O objetivo desse mini projeto é quanto compreender a lógica por trás da criação e manipulação de um calendário, sem recorrer a frameworks de front-end.
 
 ## 🔨 Requisitos
 
@@ -35,23 +35,9 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar s
 
 - **HTML**
 - **CSS**
-- **JavaScript Puro**
+- **JavaScript ou TypeScript Puro**
 
 ### Pré-requisitos
 
-- `HTML, CSS`
-- `JavaScript`
-
-## ❓ FAQ
-
-### Posso utilizar alguma biblioteca externa para auxiliar na criação do calendário?
-
-O objetivo deste mini projeto é explorar e aprimorar suas habilidades com JavaScript puro, sem depender de bibliotecas externas. Sendo assim, recomendamos que você tente fazer com JavaScript puro.
-
-### Posso utilizar alguma biblioteca de CSS para auxiliar na criação do calendário?
-
-O principal objetivo desse Mini Projeto é praticar JavaScript, sendo assim o CSS não é o foco. Por ser um design simples, recomendamos tentar fazer sem o uso de libs, mas se você achar melhor, não tem problema usar alguma lib para auxiliar no CSS.
-
-### Como faço para ver a resolução oficial?
-
-A resolução oficial sempre é disponibilizada no [site oficial do Codante](https://codante.io). Verifique na [nossa agenda](https://codante.io/agenda) se a data da resolução deste mini projeto já está definida. 
+- `HTML, CSS básicos`
+- `JavaScript básico`
