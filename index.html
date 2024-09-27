@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendário</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Calendário</h1>
+        <section class="language">
+            <label for="select-language">Selecione uma idioma</label>
+            <select name="select-language" id="select-language">
+            </select>
+        </section>
+        <section class="calendar">
+            <header class="">
+                <button id="btn-last-month"><img src="./assets/ArrowLeft.svg" alt="Seta para esquerda"></button>
+                <h2 id="month-and-year"></h2>
+                <button id="btn-next-month"><img src="./assets/ArrowRight.svg" alt="Seta para direita"></button>
+            </header>
+            <ul id="week-days" class="week-days">
+                <li>Dom</li>
+                <li>Seg</li>
+                <li>Ter</li>
+                <li>Qua</li>
+                <li>Qui</li>
+                <li>Sex</li>
+                <li>Sáb</li>
+            </ul>
+            <ul id="days-in-month" class="days-in-month">
+            </ul>
+        </section>
+    </main>
+    
+</body>
+<script src="./script.js"></script>
+</html>
